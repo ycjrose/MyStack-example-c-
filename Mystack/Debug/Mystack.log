@@ -1,0 +1,4 @@
+﻿  demo.cpp
+c:\users\ycj\documents\visual studio 2017\projects\mystack\mystack\demo.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+  Mystack.vcxproj -> C:\Users\ycj\Documents\Visual Studio 2017\Projects\Mystack\Debug\Mystack.exe
+  Mystack.vcxproj -> C:\Users\ycj\Documents\Visual Studio 2017\Projects\Mystack\Debug\Mystack.pdb (Partial PDB)
